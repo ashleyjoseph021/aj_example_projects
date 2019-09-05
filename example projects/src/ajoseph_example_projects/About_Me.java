@@ -46,7 +46,7 @@ public class About_Me
 			System.out.println("");
 		
 		System.out.println("Period 5 Release to Parent");
-			System.out.println("	C:");
+			System.out.println("	1:30 PM to 2:40 PM");
 			System.out.println("");
 		
 		System.out.println("Period 6 TA - Ms. Kahlo");
@@ -58,11 +58,11 @@ public class About_Me
 			System.out.println("");
 		
 		System.out.println("Period 8 AP Calculus");
-			System.out.println("	C:");
+			System.out.println("	10:30 AM to 11:40 AM");
 			System.out.println("");
 		
 		System.out.println("Period 9/10 Comp Programming 1 - Java");
-			System.out.println("	C:");
+			System.out.println("	12:15 PM to 2:15 PM");
 			System.out.println("");
 		
 
